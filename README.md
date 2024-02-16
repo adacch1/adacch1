@@ -19,7 +19,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey there!, I am
-                <b><a target="_blank" href="https://blog.adacchi.works">Adacchi</a></b>
+                <b><a target="_blank" href="https://ayo.so/adacchi">Adacchi</a></b>
         </samp>
 </h3>
 
