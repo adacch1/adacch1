@@ -25,7 +25,7 @@
 
 
 <p align="center">
- <a href="https://adacch1.com" target="blank">
+ <a href="about:blank" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="adacch1" />
  </a>
  <a href="https://twitter.com/therealadacchi" target="_blank">
