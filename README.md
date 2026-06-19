@@ -1,86 +1,56 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
+<!-- Profile visitor counter -->
 <p align="center">
-  <a href="https://github.com/adacch1"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <img src="https://komarev.com/ghpvc/?username=adacch1&label=Visitors&color=0D9488&style=flat" alt="Profile visitors" />
 </p>
 
- -->
+<h1 align="center">Hey there, I'm Adacchi 👋</h1>
 
-<a href="https://komarev.com/ghpvc/?username=adacch1">
-  <img align="right" src="https://komarev.com/ghpvc/?username=adacch1&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<p align="center"><i>not a coder lol — just a finance person who likes to tinker.</i></p>
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey there!, I am
-                <b><a target="_blank" href="https://ayo.so/adacchi">Adacchi</a></b>
-        </samp>
-</h3>
+---
 
+## About me
 
-<p align="center">
- <a href="about:blank" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="adacch1" />
- </a>
- <a href="https://twitter.com/therealadacchi" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/hanasatoadacchi" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="adacch1" />
- </a> 
- <a href="https://facebook.com/hanasatoadacchi" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="adacch1"  />
-  </a> 
-</p>
-<br />
+My day job lives in the world of **finance**, and over the years I've picked up a working knowledge of most corners of **business** — operations, strategy, markets, the spreadsheets behind the spreadsheets.
 
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: adacchi@tenshrimp.org<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/adacch1/adacch1/issues)
+Code isn't my profession; it's a hobby. I'm here because every so often a small tool, script, or template would make life easier (or just more fun), so I tinker, fork, and adapt other people's clever work until it does what I need.
 
-</p>
+- 💼 Work mainly in **finance**, with a broad reach across most areas of business
+- 🛠️ Hobbyist tinkerer — I adapt and remix more than I build from scratch
+- 🧰 My repos are a mix of adlists, website templates, and terminal-styled experiments
+- 📚 Always happy to learn something new and swap knowledge
+- ✨ Currently floating somewhere *under the starry sky*
 
+## What I've built
 
-<p align="left">
-  <a href="https://github.com/adacch1?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+A few things I've put together. Most live in private repos — so the names aren't links — but here's the gist:
 
-<br/>
-<hr/>
-<br/>
+- **fourC — Credit Card Control Center** — a self-hosted Vietnamese credit-card tracker: due dates, monthly payment status, and a cashback matrix (rate per category, per card) so I never miss a payment and always know the best card to swipe. *Alpine.js + Supabase, with an Android wrapper.*
+- **ielts-playground** — a private, self-hosted IELTS learning platform (Reading / Listening / Writing) with deterministic auto-grading and optional AI essay feedback. *Next.js + Postgres + Prisma.*
+- **AutoPrint** — a home web app for sending print jobs to my Windows printers from any device on the network, tunneled in over Cloudflare. *Next.js, with an everything-normalizes-to-PDF print pipeline.*
+- **Neyabed** — a Discord bot that rewrites social links to embed-friendly versions and strips tracking junk. *Written in Rust.*
+
+## Public bits & forks
+
+- **[AdacchiAdlist](https://github.com/adacch1/AdacchiAdlist)** — my own collection of adlists
+- Plus a pile of forks I keep around to tinker with: **LiveTerm**, responsive portfolio sites, and a stack of HTML5 website templates
+
+## Get in touch
+
+- 📧 **Email:** tintran@yumichi.net
+- 💬 **Or just** [open an issue](https://github.com/adacch1/adacch1/issues) and say hi
+
+---
 
 <p align="center">
-  <a href="https://github.com/adacch1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adacch1&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=adacch1&theme=tokyonight&border=2DD4BF&background=0D1117" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/adacch1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adacch1&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=adacch1&show_icons=true&theme=tokyonight&border_color=2DD4BF&bg_color=0D1117&title_color=5EEAD4&icon_color=99F6E4" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adacch1&langs_count=8&layout=compact&theme=tokyonight&border_color=2DD4BF&bg_color=0D1117&title_color=5EEAD4&icon_color=99F6E4" alt="Top languages" />
 </p>
 
-<a> 
-    <a href="https://github.com/adacch1"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=adacch1&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/adacch1"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adacch1&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+---
 
-<!---
-adacch1/adacch1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"><sub>No fancy engineering credentials here — just curiosity, spreadsheets, and the occasional late-night repo. 🌙</sub></p>
