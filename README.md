@@ -34,6 +34,7 @@ A few things I've put together. Most live in private repos — so the names aren
 
 - **[AdacchiAdlist](https://github.com/adacch1/AdacchiAdlist)** — my own collection of adlists
 - Plus a pile of forks I keep around to tinker with: **LiveTerm**, responsive portfolio sites, and a stack of HTML5 website templates
+- About the *autocommit* thing - it's to keep my Microsoft developer subscription alive.
 
 ## Get in touch
 
