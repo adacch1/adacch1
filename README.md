@@ -1,7 +1,4 @@
 <!-- Profile visitor counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adacch1&label=Visitors&color=0D9488&style=flat" alt="Profile visitors" />
-</p>
 
 <h1 align="center">Hey there, I'm Adacchi 👋</h1>
 
@@ -28,7 +25,6 @@ A few things I've put together. Most live in private repos — so the names aren
 - **fourC — Credit Card Control Center** — a self-hosted Vietnamese credit-card tracker: due dates, monthly payment status, and a cashback matrix (rate per category, per card) so I never miss a payment and always know the best card to swipe. *Alpine.js + Supabase, with an Android wrapper.*
 - **ielts-playground** — a private, self-hosted IELTS learning platform (Reading / Listening / Writing) with deterministic auto-grading and optional AI essay feedback. *Next.js + Postgres + Prisma.*
 - **AutoPrint** — a home web app for sending print jobs to my Windows printers from any device on the network, tunneled in over Cloudflare. *Next.js, with an everything-normalizes-to-PDF print pipeline.*
-- **Neyabed** — a Discord bot that rewrites social links to embed-friendly versions and strips tracking junk. *Written in Rust.*
 
 ## Public bits & forks
 
