@@ -1,4 +1,7 @@
-<!-- Profile visitor counter -->
+<!-- 👇 Banner image — replace the src with your own (drop the file in this repo, e.g. assets/banner.png) -->
+<p align="center">
+  <img src="https://files.catbox.moe/qyoz43.jpg" alt="Banner" width="100%" />
+</p>
 
 <h1 align="center">Hey there, I'm Adacchi 👋</h1>
 
@@ -14,6 +17,7 @@ Code isn't my profession; it's a hobby. I'm here because every so often a small 
 
 - 💼 Work mainly in **finance**, with a broad reach across most areas of business
 - 🛠️ Hobbyist tinkerer — I adapt and remix more than I build from scratch
+- 🖥️ A committed **homelab enjoyer** — self-hosting, tunnels, and a rack that's always one project away from "done"
 - 🧰 My repos are a mix of adlists, website templates, and terminal-styled experiments
 - 📚 Always happy to learn something new and swap knowledge
 - ✨ Currently floating somewhere *under the starry sky*
