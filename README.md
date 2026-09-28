@@ -31,7 +31,7 @@ Code is a hobby, not a profession. When a small tool would make life easier (or 
     <td valign="top">
       <b><a href="https://github.com/adacch1/ametsuyu-flippost">Ametsuyu Flippost</a></b><br />
       A rooted Galaxy Z Flip 5 turned into a dedicated 5G modem and Wi-Fi 6 hotspot.
-      It runs a Go daemon with a dashboard served from the phone, a kiosk on the cover screen, dual-band hotspot, and a thermal limit you can't switch off.
+      It runs a Go daemon with a dashboard served from the phone, a kiosk on the cover screen and dual-band hotspot
       Alerts go to Telegram and ntfy, and remote access runs over Tailscale only.
       <br /><sub>Go · Magisk · Android · Tailscale</sub>
     </td>
@@ -50,7 +50,6 @@ Most of these live in private repos, so the names aren't links:
 ## Public bits and forks
 
 - **[AdacchiAdlist](https://github.com/adacch1/AdacchiAdlist)**: my own collection of adlists
-- **[yumichi-design-system](https://github.com/adacch1/yumichi-design-system)**: a design system for my Yumichi projects
 - Forks I keep around to tinker with: **[macos-iso-builder](https://github.com/adacch1/macos-iso-builder)**, **[OpenCore-ISO](https://github.com/adacch1/OpenCore-ISO)**, **[facebed-rusty](https://github.com/adacch1/facebed-rusty)**, **[tailscale-wakeonlan](https://github.com/adacch1/tailscale-wakeonlan)**, **[LiveTerm](https://github.com/adacch1/LiveTerm)**, and a stack of website templates
 - About *autocommit*: it keeps my Microsoft developer subscription alive
 
