@@ -31,7 +31,7 @@ Code is a hobby, not a profession. When a small tool would make life easier (or 
     <td valign="top">
       <b><a href="https://github.com/adacch1/ametsuyu-flippost">Ametsuyu Flippost</a></b><br />
       A rooted Galaxy Z Flip 5 turned into a dedicated 5G modem and Wi-Fi 6 hotspot.
-      It runs a Go daemon with a dashboard served from the phone, a kiosk on the cover screen and dual-band hotspot
+      It runs a Go daemon with a dashboard served from the phone, a kiosk on the cover screen and dual-band hotspot.
       Alerts go to Telegram and ntfy, and remote access runs over Tailscale only.
       <br /><sub>Go · Magisk · Android · Tailscale</sub>
     </td>
