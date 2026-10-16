@@ -21,7 +21,7 @@ Code is a hobby, not a profession. When a small tool would make life easier (or 
 - 📚 Always happy to learn something new and swap notes
 - ✨ Somewhere *under the starry sky*
 
-## Featured project
+## Featured projects
 
 <table>
   <tr>
@@ -34,6 +34,19 @@ Code is a hobby, not a profession. When a small tool would make life easier (or 
       It runs a Go daemon with a dashboard served from the phone, a kiosk on the cover screen and dual-band hotspot.
       Alerts go to Telegram and ntfy, and remote access runs over Tailscale only.
       <br /><sub>Go · Magisk · Android · Tailscale</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" align="center" valign="top">
+      <h1>🔗</h1>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/adacch1/sakubed">sakubed</a></b><br />
+      A Discord bot that rewrites social media links so Discord shows working embeds.
+      It covers X, Bluesky, TikTok, Instagram, Threads, YouTube Shorts, Facebook, Shopee, and Douyin, and strips tracking parameters on the way.
+      Douyin links go through my own self-hosted embed fixer, and a Translate button swaps in an English caption.
+      Forked from neyako's neyabed and extended.
+      <br /><sub>Rust · serenity · Docker</sub>
     </td>
   </tr>
 </table>
